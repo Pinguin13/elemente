@@ -1,1 +1,20 @@
+html, body{
+  font-family: verdana,sans-serif;
+  color: green;
+}
 
+span{
+  background: yellow;
+  display: inline;
+}
+
+.inline{
+  display: inline;
+  background: lightblue;
+}
+
+img{
+  width: 300px;
+  display: inline;
+
+}
